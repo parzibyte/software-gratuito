@@ -12,3 +12,10 @@ Repositorio para alojar software gratuito que he creado.
 
  - **Presentación e instalación**: https://parzibyte.me/blog/2021/04/13/sistema-ventas-gratuito-windows/
  - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/sublime-pos-3/sublime-pos-3_32_bits.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/sublime-pos-3/sublime-pos-3_64_bits.rar)
+
+## Control de estacionamiento o parqueadero
+![Control de parqueadero gratuito](https://parzibyte.me/blog/wp-content/uploads/2021/05/Dashboard-de-sistema-para-estacionamientos-Mostrar-graficas-y-total-de-pagos.png)
+
+ - **Presentación e instalación**: 
+ - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_32_bits.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_64_bits.zip)
+
