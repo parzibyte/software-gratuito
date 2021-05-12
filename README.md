@@ -16,6 +16,6 @@ Repositorio para alojar software gratuito que he creado.
 ## Control de estacionamiento o parqueadero
 ![Control de parqueadero gratuito](https://parzibyte.me/blog/wp-content/uploads/2021/05/Dashboard-de-sistema-para-estacionamientos-Mostrar-graficas-y-total-de-pagos.png)
 
- - **Presentación e instalación**: 
+ - **Presentación e instalación**: https://parzibyte.me/blog/2021/05/11/sistema-estacionamientos-gratuito-open-source/
  - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_32_bits.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_64_bits.zip)
 
