@@ -41,5 +41,5 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 
 ![Programa gratuito para estacionamiento ](https://parzibyte.me/blog/wp-content/uploads/2022/05/Permisos-de-usuario-para-programa-gratuito-de-gestion-de-estacionamiento.png)
 
- - **Novedades**: https://parzibyte.me/blog/
+ - **Novedades en esta versión**: https://parzibyte.me/blog/2022/05/03/software-parqueadero-tarifas-usuarios-personalizacion-ticket/
  - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_32_bits_v0.2.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_64_bits_v0.2.zip)
