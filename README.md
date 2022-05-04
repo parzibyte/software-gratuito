@@ -43,3 +43,12 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 
  - **Novedades en esta versión**: https://parzibyte.me/blog/2022/05/03/software-parqueadero-tarifas-usuarios-personalizacion-ticket/
  - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_32_bits_v0.2.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_64_bits_v0.2.zip)
+
+
+
+
+## Aplicación de punto de venta gratuito para Android, funciona en teléfonos y tabletas
+![Punto de venta para Android](https://parzibyte.me/blog/wp-content/uploads/2022/05/Graficas-de-ventas-por-ano-y-mes.jpg)
+
+ - **Presentación e instalación**: https://parzibyte.me/blog/
+ - **Descarga**: https://github.com/parzibyte/software-gratuito/raw/main/sublime_pos_3_android/sublime_pos_3_android.zip
