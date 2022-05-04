@@ -50,5 +50,5 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 ## App de punto de venta gratuito para Android, funciona en celulares y tabletas
 ![Punto de venta para Android](https://parzibyte.me/blog/wp-content/uploads/2022/05/Graficas-de-ventas-por-ano-y-mes.jpg)
 
- - **Presentación e instalación**: https://parzibyte.me/blog/
+ - **Presentación e instalación**: https://parzibyte.me/blog/2022/05/04/punto-venta-gratuito-android-usalo-telefono-tableta/
  - **Descarga**: https://github.com/parzibyte/software-gratuito/raw/main/sublime_pos_3_android/sublime_pos_3_android.zip
