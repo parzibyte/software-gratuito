@@ -55,5 +55,5 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 
 ## Sistema de ventas gratis para Raspberry Pi (Raspbian)
 ![Punto de venta gratis para Raspberry Pi](https://parzibyte.me/blog/wp-content/uploads/2022/11/Punto-de-venta-gratis-para-Raspberry-Pi.png)
- - **Presentación e instalación**: https://parzibyte.me/blog/
+ - **Presentación e instalación**: https://parzibyte.me/blog/2022/11/21/punto-venta-gratis-raspberry-pi/
  - **Descarga**: https://github.com/parzibyte/software-gratuito/raw/main/sublime_pos_3_raspbian/sublime_pos_3_32_2022-11-16_13-53-49_raspbian.zip
