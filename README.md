@@ -52,3 +52,8 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 
  - **Presentación e instalación**: https://parzibyte.me/blog/2022/05/04/punto-venta-gratuito-android-usalo-telefono-tableta/
  - **Descarga**: https://github.com/parzibyte/software-gratuito/raw/main/sublime_pos_3_android/sublime_pos_3_android.zip
+
+## Sistema de ventas gratis para Raspberry Pi (Raspbian)
+![Punto de venta gratis para Raspberry Pi](https://parzibyte.me/blog/wp-content/uploads/2022/11/Punto-de-venta-gratis-para-Raspberry-Pi.png)
+ - **Presentación e instalación**: https://parzibyte.me/blog/
+ - **Descarga**: https://github.com/parzibyte/software-gratuito/raw/main/sublime_pos_3_raspbian/sublime_pos_3_32_2022-11-16_13-53-49_raspbian.zip
