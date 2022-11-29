@@ -5,7 +5,7 @@ Repositorio para alojar software gratuito que he creado.
 
  - **Presentación**: https://parzibyte.me/blog/2021/03/31/software-control-asistencia-tareas-escolares-gratuito/
  - **Instalación**: https://parzibyte.me/blog/2021/03/31/instalacion-software-control-asistencias-tareas/
- - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-asistencias-tareas/control_asistencias_tareas_32bits.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-asistencias-tareas/control_asistencias_tareas_64bits.zip)
+ - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-asistencias-tareas/control_asistencia_tareas_0.2_32_bits.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-asistencias-tareas/control_asistencia_tareas_0.2_64_bits.zip)
 
 ## Punto de venta gratuito para Windows - Sublime POS 3
 ![Sistema de ventas gratuito para Windows](https://parzibyte.me/blog/wp-content/uploads/2021/04/Bienvenida-al-sistema-de-ventas.png)
