@@ -33,6 +33,7 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 ## Control de estacionamiento o parqueadero v0.1
 ![Control de parqueadero gratuito](https://parzibyte.me/blog/wp-content/uploads/2021/05/Dashboard-de-sistema-para-estacionamientos-Mostrar-graficas-y-total-de-pagos.png)
 
+ - **Nota:** esta versión usa el plugin versión 1 que ya no está disponible. Recomiendo usar la versión 0.2.1 (listada más abajo) que incluye varias mejoras incluyendo la impresión con el plugin actualizado 
  - **Presentación e instalación**: https://parzibyte.me/blog/2021/05/11/sistema-estacionamientos-gratuito-open-source/
  - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_32_bits.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_64_bits.zip)
 
@@ -42,7 +43,7 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 ![Programa gratuito para estacionamiento ](https://parzibyte.me/blog/wp-content/uploads/2022/05/Permisos-de-usuario-para-programa-gratuito-de-gestion-de-estacionamiento.png)
 
  - **Novedades en esta versión**: https://parzibyte.me/blog/2022/05/03/software-parqueadero-tarifas-usuarios-personalizacion-ticket/
- - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_32_bits_v0.2.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_64_bits_v0.2.zip)
+ - **Descarga**: [32 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_32_bits_v0.2.1.zip) | [64 bits](https://github.com/parzibyte/software-gratuito/raw/main/control-estacionamiento/control_estacionamiento_64_bits_v0.2.1.zip)
 
 
 
